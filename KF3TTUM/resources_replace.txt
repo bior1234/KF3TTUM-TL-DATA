@@ -1,0 +1,4 @@
+MainCanvasFront/SceneTitle/GUI_Title(Clone)/Auth_Title/AEimg_Title_All,Login_Title.png,false
+MainCanvasSystem/SystemPanel/FadeMask/GUI_BattleQuitWipe(Clone)/AEImage_Quit,BattleQuitWipe.png,true
+MainCanvasFront/GUI_Memories(Clone)/Communication/Auth_HeartLvUp/AEImage_Info,BattleResult.png,false
+MainCanvasFront/GUI_BattleFront(Clone)/AEImage_Result,Battle_Other.png,false
