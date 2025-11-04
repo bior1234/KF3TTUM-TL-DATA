@@ -2,3 +2,4 @@ ScenarioPrefab(Clone)/root/GUIRoot/GUI_Scenario(Clone)/SerifWindow/Txt_Serif,0,A
 ScenarioPrefab(Clone)/root/GUIRoot/GUI_Scenario(Clone)/SerifWindow/Txt_Serif,1.5,LineSpacing
 MainCanvasSystem/SystemPanel/GUI_CmnMenu(Clone)/TitleBase/Txt_Title,26,AutoFitWithFontSize
 MainCanvasSystem/SystemPanel/GUI_HelpWindow(Clone)/Base/Window/Scroll View/Viewport/Content/BigGroup/13/Anchor/SamllGroup/4/BaseImage/Txt,0,AutoFit
+ScenarioPrefab(Clone)/root/GUIRoot/GUI_Scenario(Clone)/Narration/Txt_Narration,2,LineSpacing
