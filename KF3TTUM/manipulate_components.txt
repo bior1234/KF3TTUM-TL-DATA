@@ -33,3 +33,4 @@ MainCanvasFront/SelCharaGrow/GUI_CharaGrow(Clone)/CharaGrow_Top/All/WindowAll/Sc
 MainCanvasFront/SelCharaGrow/GUI_CharaGrow(Clone)/CharaGrow_Top/All/WindowAll/ScrollView/Viewport/Content/9/0/BaseImage/Txt_CharaName,1,LineSpacing
 MainCanvasFront/SelCharaGrow/GUI_CharaGrow(Clone)/CharaGrow_Top/All/WindowAll/ScrollView/Viewport/Content/9/1/BaseImage/Txt_CharaName,1,LineSpacing
 MainCanvasFront/SelCharaGrow/GUI_CharaGrow(Clone)/CharaGrow_Top/All/WindowAll/ScrollView/Viewport/Content/9/2/BaseImage/Txt_CharaName,1,LineSpacing
+MainCanvasSystem/GUI_DeckReachedLimitList_Window(Clone)/Base/Window/Massage,1,LineSpacing
